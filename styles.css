@@ -1,0 +1,25 @@
+.haut {
+color:SlateBlue; 
+text-align: center;
+border: solid;
+padding: 2px 2px 2px 2px;
+}
+body {
+background:
+linear-gradient(DarkRed, Red);
+padding: 20px 0px 1500px 0;
+
+}
+.chara1{
+font-family: Verdana;
+text-align: center;
+}
+
+.wu {
+width: 220px;
+border: solid;
+padding-right: 80px;
+  position: absolute;
+  left: 255px;
+  
+}
